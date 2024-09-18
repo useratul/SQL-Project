@@ -1,9 +1,5 @@
 # FDA Project
 
---> Final Dashboard
-![Dashboard of fda project](https://github.com/user-attachments/assets/abab88c4-60b8-4c93-957c-30e829bf909a)
-
-
 ## About the DataSet
 The U.S. *Food and Drug Administration* (FDA) is a federal agency responsible for safeguarding public
 health in the United States. It oversees various areas, including food safety, pharmaceuticals, medical
@@ -12,6 +8,9 @@ drugs, biological products, and medical devices, conducts inspections, and enfor
 regulates food production and distribution, conducts research, provides public health education, and
 monitors and responds to emerging health risks. The FDA's mission is to protect and promote public
 health by ensuring the safety and effectiveness of a wide range of products and substances.
+
+--> Final Dashboard
+![Dashboard of fda project](https://github.com/user-attachments/assets/abab88c4-60b8-4c93-957c-30e829bf909a)
 
 ## Software / Tools
 + MySQL---> Qurey writing parts
